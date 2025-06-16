@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "953870159109",
+    "firebase_url": "https://applicazionetestfirebase-7b312-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "applicazionetestfirebase-7b312",
+    "storage_bucket": "applicazionetestfirebase-7b312.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953870159109:android:2693cd6fed36b9fee97b6c",
+        "android_client_info": {
+          "package_name": "com.ivanromeo.applicazione_test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkYMeaA8sb_H2rCDLs0pRX-uBUv3FosBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
